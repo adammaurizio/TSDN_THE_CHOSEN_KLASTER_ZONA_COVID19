@@ -7,7 +7,7 @@ from PIL import Image
 st.title('Klasterisasi Zona COVID-19')
 
 img = Image.open('cover_covid_indonesia.png')
-st.image(img, width = 680)
+st.image(img, width = 685)
 
 st.write("""
 ### Model ini dikembangkan oleh tim **The Chosen** dengan menggunakan **Python** dan **Streamlit**
