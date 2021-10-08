@@ -4,10 +4,10 @@ import pickle as pkl
 from sklearn.cluster import KMeans
 from PIL import Image
 
-st.title('Klasterisasi COVID-19')
+st.title('Klasterisasi Zona COVID-19')
 
 img = Image.open('cover_covid_indonesia.png')
-st.image(img, width = 630)
+st.image(img, width = 680)
 
 st.write("""
 ### Model ini dikembangkan oleh tim **The Chosen** dengan menggunakan **Python** dan **Streamlit**
