@@ -18,8 +18,10 @@ st.write('##### - Adam Maurizio Winata')
 st.write('##### - Alvin Bimo Ramadhani')
 st.write('##### - Muhammad Axel Syahputra')
 st.write('##### - Yohanes Manasye Triangga')
+st.write(' ')
 
 st.write(" [Link Dashboard](https://bit.ly/DashboardTSDN)")
+st.write(' ')
 
 display = ('Pilih Jumlah Klaster','Klaster 2 Zona', 'Klaster 3 Zona', 'Klaster 4 Zona')
 
