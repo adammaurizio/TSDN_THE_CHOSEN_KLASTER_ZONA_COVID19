@@ -19,6 +19,8 @@ st.write('##### - Alvin Bimo Ramadhani')
 st.write('##### - Muhammad Axel Syahputra')
 st.write('##### - Yohanes Manasye Triangga')
 
+st.write(" [Link Dashboard](https://bit.ly/DashboardTSDN)")
+
 display = ('Pilih Jumlah Klaster','Klaster 2 Zona', 'Klaster 3 Zona', 'Klaster 4 Zona')
 
 value = st.selectbox("Masukkan jumlah klaster", display)
